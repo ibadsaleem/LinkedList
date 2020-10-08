@@ -28,7 +28,7 @@ class LinkedList{
 			cout << endl;
 		}
 		
-		void add_beech(int n ,Node *target ){
+		void add_middle(int n ,Node *target ){
 			Node *newnode = new Node;
 			newnode->val = n ;
 			newnode->next = NULL;
@@ -113,7 +113,7 @@ class LinkedList{
 		}
 	
 		
-			void add_beech_index(int n ,int m ){
+			void add_middle_index(int n ,int m ){
 			Node *newnode = new Node;
 			newnode->val = n ;
 			newnode->next = NULL;
@@ -131,7 +131,7 @@ class LinkedList{
 			while(ptr != NULL ){
 				
 				if(i == m-1){
-					add_beech(n , ptr);
+					add_middle(n , ptr);
 					
 				}	
 					
@@ -162,18 +162,8 @@ int main(){
 	for(int i = 0 ; i< 10 ; i++){
 		l2.add_end(i);
 	}
-	l2.add_beech(100 , l2.gethead()->next->next );	
-	l2.add_beech_index( 500, 3);
+	l2.add_middle(100 , l2.gethead()->next->next );	
+	l2.add_middle_index( 500, 3);
 	l2.display();
-	
-//	
-//	
-//	cout << "ulti list"<<endl;
-//	l1.display();
-//	cout << "ssedhi list" << endl;
-//	l2.display();
-//	
-//	
-	
 	return 0;
 }

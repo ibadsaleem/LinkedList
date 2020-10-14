@@ -5,4 +5,5 @@
 # 3) Circular Single Linked List.
 # 4) Insertion operation on Doubly Linked List.
 # 5) Deletion operation on Doubly Linked List.
+# 6) Straight Selection Sorting operation on Singly Linked List.
 

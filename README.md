@@ -7,4 +7,5 @@
 # [5) Deletion operation on Doubly Linked List.](https://github.com/ibadsaleem/LinkedList/blob/master/Doubly_Link_List.cpp)
 # [6) Straight Selection Sorting operation on Singly Linked List.](https://github.com/ibadsaleem/LinkedList/blob/master/Straight_Selection_Sorting_Link_List.cpp)
 # [7) Reversing Singly Linked List.](https://github.com/ibadsaleem/LinkedList/blob/master/Reversing_List.cpp)
+# [7) Bubble Sorting Singly Linked List.](https://github.com/ibadsaleem/LinkedList/blob/master/Bubble_Sort_Link_List.cpp)
 

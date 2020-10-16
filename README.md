@@ -8,4 +8,5 @@
 # [6) Straight Selection Sorting operation on Singly Linked List.](https://github.com/ibadsaleem/LinkedList/blob/master/Straight_Selection_Sorting_Link_List.cpp)
 # [7) Reversing Singly Linked List.](https://github.com/ibadsaleem/LinkedList/blob/master/Reversing_List.cpp)
 # [7) Bubble Sorting Singly Linked List.](https://github.com/ibadsaleem/LinkedList/blob/master/Bubble_Sort_Link_List.cpp)
+# [8) Counting Nodes.](https://github.com/ibadsaleem/LinkedList/blob/master/Count_Nodes.cpp)
 

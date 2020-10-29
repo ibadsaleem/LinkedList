@@ -9,4 +9,6 @@
 # [7) Reversing Singly Linked List.](https://github.com/ibadsaleem/LinkedList/blob/master/Reversing_List.cpp)
 # [7) Bubble Sorting Singly Linked List.](https://github.com/ibadsaleem/LinkedList/blob/master/Bubble_Sort_Link_List.cpp)
 # [8) Counting Nodes.](https://github.com/ibadsaleem/LinkedList/blob/master/Count_Nodes.cpp)
+# [8) Swapping Nodes.](https://github.com/ibadsaleem/LinkedList/blob/master/Swap_nodes.cpp)
+
 
